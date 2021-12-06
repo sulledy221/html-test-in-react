@@ -1,0 +1,52 @@
+.banner-top-img {
+  position: absolute;
+  z-index: 1;
+  width: 43.7%;
+}
+
+.banner-container {
+  position: relative;
+  height: 23vw;
+}
+
+.banner {
+  width: 82vw;
+  position: absolute;
+}
+
+.banner-box {
+  padding: 55px 0 0 55px;
+  display: flex;
+  flex-direction: column;
+  width: 1050px;
+  z-index: 4;
+}
+
+.banner-text {
+  color: white;
+  z-index: 5;
+  padding: 3px;
+  color: rgb(44, 100, 147);
+  width: 200px;
+}
+
+.banner-text-p {
+  color: white;
+  z-index: 9;
+  width: 400px;
+  padding: 3px;
+  margin-top: 25px;
+  text-align: left;
+}
+
+.banner-btn {
+  z-index: 4;
+  font-size: 18px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(44, 99, 147);
+  padding: 10px;
+  width: 150px;
+  border: none;
+  margin-top: 45px;
+}

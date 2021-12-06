@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  font-family: "Source Sans 3", sans-serif;
+}
+
+.container {
+  background: rgb(44, 99, 147);
+}
+
+.header {
+  text-align: left;
+  color: rgb(44, 100, 147);
+}
+
+.headers {
+  font-family: "Carrois Gothic", sans-serif;
+  color: rgb(44, 100, 147);
+}
+
+.body-text {
+  text-align: left;
+  width: 800px;
+}
+
+.second-header {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: black;
+}
+
+.body-list {
+  list-style-type: none;
+  margin-bottom: 25px;
+}
+
+.quote {
+  width: 600px;
+  background: rgb(228, 228, 228);
+  border-left: 5px solid rgb(118, 118, 118);
+  margin: 10px;
+  margin-left: 48px;
+  padding: 5px;
+  height: 100px;
+}
+
+.quote-text {
+  margin-left: 10px;
+  margin-top: 15px;
+  width: 600px;
+}
+
+.quote-name {
+  margin-left: 490px;
+}

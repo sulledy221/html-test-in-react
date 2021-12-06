@@ -1,0 +1,39 @@
+.container {
+  margin: 0;
+  background: rgb(44, 99, 147);
+  display: flex;
+  margin-top: 10px;
+  width: 82vw;
+}
+
+nav {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul {
+  list-style: none;
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0;
+  text-align: center;
+  padding: 14px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  height: 50px;
+  font-family: "Fjalla One", sans-serif;
+  font-size: 20px;
+}
+
+nav li:hover {
+  background-color: rgb(35, 75, 110);
+  height: auto;
+}

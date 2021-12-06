@@ -1,0 +1,26 @@
+.bg-img {
+  padding: 0;
+  margin: 0;
+  position: fixed;
+  width: 100%;
+  z-index: -1;
+}
+
+.logo-img {
+  width: 300px;
+}
+
+.number {
+  color: rgb(44, 100, 147);
+  text-decoration: none;
+}
+
+.p-contact {
+  text-align: right;
+}
+
+.header-info {
+  display: flex;
+  justify-content: space-between;
+  width: 81vw;
+}

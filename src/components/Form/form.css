@@ -1,0 +1,29 @@
+.form-wrapper {
+  background-color: rgb(221, 221, 221);
+  list-style-type: none;
+  padding: 20px;
+  width: 350px;
+  height: 438px;
+}
+
+.form {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.form input,
+.form textarea {
+  margin-bottom: 10px;
+  padding: 7px;
+}
+
+.form-btn {
+  font-size: 18px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(44, 99, 147);
+  padding: 10px;
+  width: 150px;
+  border: none;
+}
